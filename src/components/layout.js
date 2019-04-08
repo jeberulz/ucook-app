@@ -19,12 +19,12 @@ const Layout = ({ children }) => (
       <>
         <Header siteTitle={data.site.siteMetadata.title} />
         <section>
-        row 1
+        row
           
         </section>
 
         <section>
-          row 2
+          row
         </section>
       </>
     )}
